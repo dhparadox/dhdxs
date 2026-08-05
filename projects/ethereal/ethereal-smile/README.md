@@ -1,5 +1,5 @@
 # IT is NEARLY COMPLETE 
-<img src="../../assets/img/dhdxs-ethereal-smile-final.png">
+<img src="/dhdxs/assets/img/dhdxs-ethereal-smile-final.png">
 
 :)
 
